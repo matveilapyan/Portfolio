@@ -1,5 +1,5 @@
 package Patterns.Generative.AbstractFactory;
 
-public interface CreateHuman {
+public interface Engineer {
     void createCar();
 }

@@ -1,2 +1,5 @@
-package Patterns.Generative.Factory;public interface FlowerPickerFactory {
+package Patterns.Generative.Factory;
+
+public interface FlowerPickerFactory {
+    FlowerPicker createFlowerPicker();
 }

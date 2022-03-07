@@ -1,4 +1,4 @@
-package Patterns.Iterator;
+package Patterns.Behavioral.Iterator;
 
 public class JavaDeveloper implements Collection{
     private String name;

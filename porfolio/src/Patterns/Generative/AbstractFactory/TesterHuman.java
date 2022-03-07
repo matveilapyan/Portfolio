@@ -1,2 +1,5 @@
-package Patterns.Generative.AbstractFactory;public interface TesterHuman {
+package Patterns.Generative.AbstractFactory;
+
+public interface TesterHuman {
+    void testCar();
 }

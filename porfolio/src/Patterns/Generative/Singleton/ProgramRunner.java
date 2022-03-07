@@ -1,4 +1,4 @@
-package Patterns.Singleton;
+package Patterns.Generative.Singleton;
 
 public class ProgramRunner {
     public static void main(String[] args) {

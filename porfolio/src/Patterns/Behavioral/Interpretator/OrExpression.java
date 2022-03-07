@@ -1,4 +1,4 @@
-package Patterns.Interpretator;
+package Patterns.Behavioral.Interpretator;
 
 public class OrExpression implements Expression{
     private Expression expression1;

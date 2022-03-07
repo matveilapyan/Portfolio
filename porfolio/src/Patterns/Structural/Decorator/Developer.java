@@ -1,2 +1,6 @@
-package Patterns.Structural.Decorator;public class Developer {
+package Patterns.Structural.Decorator;
+
+public interface Developer {
+public String makeJob();
+
 }

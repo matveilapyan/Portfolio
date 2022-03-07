@@ -1,6 +1,6 @@
 package Patterns.Structural.Adapter;
 
-public class CreateBox {
+public class JavaApplication {
     public void saveObject(){
         System.out.println("Saving box object...");
     }
@@ -11,6 +11,6 @@ public class CreateBox {
         System.out.println("Delete box object...");
     }
     public void loadObject(){
-        System.out.println("Load box object..");
+        System.out.println("Load box object...");
     }
 }

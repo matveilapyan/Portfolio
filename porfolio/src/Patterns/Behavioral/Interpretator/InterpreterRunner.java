@@ -1,6 +1,4 @@
-package Patterns.Interpretator;
-
-import java.util.jar.JarEntry;
+package Patterns.Behavioral.Interpretator;
 
 public class InterpreterRunner {
     public static void main(String[] args) {

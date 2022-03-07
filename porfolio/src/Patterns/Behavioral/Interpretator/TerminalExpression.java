@@ -1,4 +1,4 @@
-package Patterns.Interpretator;
+package Patterns.Behavioral.Interpretator;
 
 public class TerminalExpression implements Expression{
     private String data;

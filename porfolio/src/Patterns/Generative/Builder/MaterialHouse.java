@@ -1,2 +1,5 @@
-package Patterns.Generative.Builder;public class MaterialHouse {
+package Patterns.Generative.Builder;
+
+public enum MaterialHouse {
+    STONE, WOOD;
 }

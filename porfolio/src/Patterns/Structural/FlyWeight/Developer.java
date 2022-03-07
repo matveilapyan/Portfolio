@@ -1,2 +1,5 @@
-package Patterns.Structural.FlyWeight;public class Developer {
+package Patterns.Structural.FlyWeight;
+
+public interface Developer {
+    public void writeCode();
 }

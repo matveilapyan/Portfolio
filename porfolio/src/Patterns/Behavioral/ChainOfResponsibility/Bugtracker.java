@@ -11,6 +11,6 @@ public class Bugtracker {
 
         reportNotifier.notifyManager("Everything is OK",Priority.ROUTINE);
         reportNotifier.notifyManager("Something went wrong!",Priority.IMPORTANT);
-        reportNotifier.notifyManager("Everything is OK",Priority.ASAP);
+        reportNotifier.notifyManager("Houston, we had a problem here!!!",Priority.ASAP);
     }
 }

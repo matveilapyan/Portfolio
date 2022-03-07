@@ -1,4 +1,4 @@
-package Patterns.Singleton;
+package Patterns.Generative.Singleton;
 
 public class ProgramLogger {
     private static ProgramLogger programLogger;

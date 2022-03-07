@@ -8,6 +8,6 @@ public class SimpleReportNotification extends Notifier{
 
     @Override
     public void write(String message) {
-
+        System.out.println("Notifying using simple report: "+message);
     }
 }

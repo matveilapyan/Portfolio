@@ -1,6 +1,6 @@
 package Patterns.Structural.Bridge;
 
-public class JavaDeveloper implements Developer{
+public class CircleDeveloper implements Developer{
     @Override
     public void drawFigure() {
         System.out.println("Drawing circle...");
